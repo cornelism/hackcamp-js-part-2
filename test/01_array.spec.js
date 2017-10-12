@@ -1,4 +1,4 @@
-var assert = require('chai').expect;
+import { expect } from 'chai';
 
 describe("About Arrays", () => {
   //We shall contemplate truth by testing reality, via spec expectations.

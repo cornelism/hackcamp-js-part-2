@@ -1,4 +1,4 @@
-var assert = require('chai').expect;
+import { expect } from 'chai';
 
 // documentation for the chai#expect http://chaijs.com/api/bdd/
 

@@ -1,4 +1,4 @@
-var assert = require('chai').expect;
+import { expect } from 'chai';
 
 describe('JavaScript Inheritance Functional Patterns', () => {
 
